@@ -4,13 +4,13 @@
 Designed an interactive Sales Dashboard using Power BI based on a Kaggle sales transactions dataset.  
 This dashboard helps business stakeholders track key performance indicators (KPIs) and make data-driven decisions.
 
----
+
 
 ## 🗂 Dataset Details
 **Source**: Kaggle – Sales Transactions Dataset  
 **Key Columns**: Order Number, Sales, Quantity, Order Date, Customer Name, Country, Product Line, Deal Size
 
----
+
 
 ## 🎯 Objectives
 - Visualize total sales and profits
@@ -19,7 +19,7 @@ This dashboard helps business stakeholders track key performance indicators (KPI
 - Highlight top-performing countries and customers
 - Enable interactivity with slicers and filters
 
----
+
 
 ## 📌 KPIs Tracked
 - 💰 Total Sales  
@@ -27,7 +27,7 @@ This dashboard helps business stakeholders track key performance indicators (KPI
 - 📊 Average Profit Margin  
 - 🧾 Total Orders  
 
----
+
 
 ## 📈 Charts & Visuals Used
 - Line chart: Sales over time  
@@ -37,7 +37,7 @@ This dashboard helps business stakeholders track key performance indicators (KPI
 - KPI Cards for overall summary  
 - Slicers for filters (Country, Year, Product Line)
 
----
+
 
 ## 🧠 Key Insights
 - 🇺🇸 Highest Sales recorded in USA  
@@ -46,7 +46,7 @@ This dashboard helps business stakeholders track key performance indicators (KPI
 - 🕒 Sales peak in Q4 (Oct–Dec)  
 - 🇩🇰 Denmark has the highest average profit per order
 
----
+
 
 ## 📁 Files Included
 - `Dashboard.pbix` → Power BI Dashboard file  
@@ -54,7 +54,7 @@ This dashboard helps business stakeholders track key performance indicators (KPI
 - `SalesData.csv` → Dataset used  
 - `README.md` → This file  
 
----
+
 
 ## 👨‍💻 Created By
 **G. Chandra Sekhar Reddy**  
